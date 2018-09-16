@@ -25,7 +25,7 @@ ou, se possuir uma versão mais recente do Gemfile, execute o seguinte comando:
     bundle exec jekyll serve -w
 ```
 
-O site estará disponível em http://127.0.0.1:4000/zeppelin/ ou http://localhost:4000/zeppelin/ (no Windows)
+O site estará disponível em http://127.0.0.1:4000/seminco/ ou http://localhost:4000/seminco/ (no Windows)
 
 ### Suporte para Sass(Compass)
 **Nota:** Você precisa instalar o [Node.js](http://nodejs.org/download/)
